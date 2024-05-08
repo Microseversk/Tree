@@ -45,11 +45,6 @@ const ROOT_NODE: ITreeNode = {
     },
   ],
 };
-const ROOT_NODE2: ITreeNode = {
-  id: "1",
-  name: "",
-  children: [],
-};
 
 function App() {
   return (
