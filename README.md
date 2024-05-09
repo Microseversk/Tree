@@ -1,11 +1,23 @@
-# React + TypeScript + Vite
+# Создание узла
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1 - Пишем название в input`e
+2 - Выделяем родительский узел
+3 - Нажимаем "Создать узел"
 
-Currently, two official plugins are available:
+# Удаление узла
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2 - Выделяем узел
+3 - Нажимаем "Удалить узел"
+
+# Переименование узла
+
+1 - Пишем название в input`e
+2 - Выделяем узел
+3 - Нажимаем "Переименовать узел"
+
+# Сбросить до первоначального вида
+
+3 - Нажимаем "Сбросить"
 
 ## Expanding the ESLint configuration
 
